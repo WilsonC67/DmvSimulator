@@ -31,8 +31,11 @@ public class DmvSimulator {
         if (miracle == hell) {
             System.out.println("Wait what? You have all of the required paperwork, but that's impossible! You won't be as lucky next time. Get out.");
         } else {
-            System.out.println("You don't have the required paperwork. You're supposed to have today's WORDLE, a google-generated password, and a completed 100x100 Sudoku. You are clearly a failure of a human and do not deserve any license whatsoever. Get out.");
+            System.out.println("You don't have the required paperwork. You're supposed to have today's WORDLE, a google-generated password, and a completed 100x100 Sudoku. You are clearly a failure of a human and do not deserve any license whatsoever. Get out. MWAHAHAHAHA LOSER!");
         } 
+
+    
+
     }
 }
 
